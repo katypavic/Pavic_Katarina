@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'katarinapavic_novoregular';
+    src: url('katarinapavic_n.woff2') format('woff2'),
+         url('katarinapavic_n.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
